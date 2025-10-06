@@ -32,7 +32,9 @@ Wanna join me in this challenge or suggest problems?
 Open an issue, drop a comment, or connect with me here 👇
 
 🌐 GitHub Profile: https://github.com/aadisudo
+
 💼 LinkedIn : linkedin.com/in/aaditya-singla-514a392b3
+
 📧 Email: aaditya.singla007@gmail.com
 
 🏁 **The End Goal**
