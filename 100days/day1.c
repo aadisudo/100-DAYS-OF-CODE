@@ -1,3 +1,4 @@
+//QUES 1. Write a program to input two numbers and display their sum.
 #include <stdio.h>
  int main(){
     
@@ -24,7 +25,7 @@
  */
 
 
- //PART 2
+ //QUES 2. Write a program to input two numbers and display their sum, difference, product, and quotient.
  #include<stdio.h>
 int main(){
     int a=10;
