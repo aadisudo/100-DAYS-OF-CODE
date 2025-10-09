@@ -1,6 +1,7 @@
 *.json
 *.exe
 100days/day2.c
-100days/day2.c
+100days/day4.c
 100days/day3.c
 100days/day5.c
+100days/day6.c
