@@ -35,3 +35,7 @@ int main() {
 
     return 0;
 }
+/*
+Enter a number (1-7): 5
+Friday
+*/
